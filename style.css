@@ -1,0 +1,39 @@
+textarea {
+  resize: none;
+  color: white;
+}
+
+.past {
+  background-color: #bdbdbd;
+  border-color: gray;
+}
+
+.present {
+  background-color: crimson;
+  border-color: crimson;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.future {
+  background-color: #5ab15a;
+  border-color: #5ab15a;
+}
+
+button {
+  background-color: aqua;
+  border-radius: 0px 5px 5px 0px;
+}
+
+header {
+  border-bottom-width: 10px;
+  background-color: beige;
+}
+
+h4 {
+  color: red;
+}
+
+button {
+  font-size: 16px;
+}
