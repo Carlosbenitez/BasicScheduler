@@ -1,3 +1,10 @@
+This is a basic scheduler that is reactive with the time. Multiple pages were used including HTML with bootstrap in addition to CSS and Javascript. The page uses local storage to record input up to 150 characters on each hour slot.
+
+I used the help of peers' git hub pages for the Javascript logic.
+
+![](example/image.jpg)
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
